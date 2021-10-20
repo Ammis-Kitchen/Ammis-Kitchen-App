@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Ammis Kitchen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu">Menu</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="account">ACCOUNT</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintFirstName">First Name</string>
+    <string name="hintLastName">Last Name</string>
+    <string name="btnContinue">Continue</string>
+    <string name="hintMobileNumber">Mobile Number</string>
+    <string name="txtSendOTP">Send OTP</string>
+    <string name="txtSubmitOTP">Submit</string>
+    <string name="hintOTP">Enter OTP</string>
+    <string name="hintAddress">Enter Primary Address</string>
+    <string name="logoContentDescription">Ammis Kitchen</string>
+    <string name="skip">skip for now ></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="button_continue_text">Continue</string>
+    <string name="didn_t_receive_code_request_again">Didn\'t receive code? <u>Request again</u></string>
+    <string name="veg">Veg</string>
+    <string name="string_continue_with_phone">Continue with phone</string>
+    <string name="string_verify_next">You\'ll receive a 6 digit code to verify next</string>
+    <string name="string_otp_logo_description">OTP logo</string>
+    <string name="string_verify_phone">Verify Phone</string>
+    <string name="string_code_sent">Code is sent to +919987746997</string>
 </resources>

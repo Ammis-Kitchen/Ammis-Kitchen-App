@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FFD70B</color>
+    <color name="colorPrimaryDark">#FFD70B</color>
+    <color name="colorAccent">#FFE500</color>
+    <color name="edittextBorder">#A39200</color>
+    <color name="backgroundColor">#F5F7F9</color>
+    <color name="cardBackgroundColor">#FEFDFD</color>
+    <color name="transparentWhite">#00FFFFFF</color>
+
+    <color name="otpboxColor">#F6F5FA</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="bottomNavBackgroundColor">#17171F</color>
+    <color name="selectedBottomNavColor">#B6AC4D</color>
+    <color name="unselectedBottomNavColor">#AFB4AB</color>
+
+    <color name="chipColor">#E6AA43</color>
+
+    <color name="textColorGrey">#3C3939</color>
 </resources>
